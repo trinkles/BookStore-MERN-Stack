@@ -10,11 +10,14 @@ For Backend
 - MongoDB
 - Mongoose
 - CORS
+- Postman
 
 For Frontend
-- Vite + React
+- Vite + React (w/ Javascript)
 - Tailwind CSS
 - React Router
 - Axios
 - React Icons
 - Notistack
+
+The approach here was to create two separate folders for backend and frontend. The backend is created first and tested with Postman then a frontend folder is created and configured with Vite + React installation.
