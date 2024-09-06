@@ -7,7 +7,7 @@ For Backend
 - NodeJS
 - Express
 - Nodemon
-- MongoDB
+- MongoDB (local server)
 - Mongoose
 - CORS
 - Postman
